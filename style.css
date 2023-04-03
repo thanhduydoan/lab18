@@ -1,0 +1,18 @@
+.bg-img1 {
+  height: 400px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/A-moon-river-for-moon-river-song.jpg);
+}
+.bg-img2 {
+  height: 400px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/depositphotos_61100085-stock-photo-forest-river-with-stones-and.jpg);
+}
+.bg-img3 {
+  height: 400px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(./img/istockphoto-184324394-612x612.jpg);
+}
